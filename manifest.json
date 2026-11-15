@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-15T22:05:35",
+ "generated": "2026-11-16T03:23:36",
  "packages": [
   {
-   "version": "0.9.468",
-   "file": "auditradar-update-0.9.468.zip",
-   "sha256": "8afee2c01520dca49830674d88430d15219e6dc76916c74844839d2bcf0a94b1",
-   "size": 9378081,
-   "notes": "Норматив ҳужжатлар → Ташқи савдо: «Эски кодлар» тугмаси «Битим хусусияти — эски (08.04.2025 гача)» деб номланди ва «Битим хусусияти» ёнига кўчирилди",
-   "built": "2026-11-15T22:05:32",
+   "version": "0.9.471",
+   "file": "auditradar-update-0.9.471.zip",
+   "sha256": "427b7a1477b6333f7f05cff9d57f5c9ba1f41fb9142ec35eff475c4e94f48dbd",
+   "size": 9386348,
+   "notes": "Асосий воситалар: белгиланган объектлар бўйича бирданига тасдиқлаш / рад этиш / гуруҳ; рад этишда омбор туркумини ўзгартириш (сукут — Хом ашё ва материаллар); қидириш ва саралаш",
+   "built": "2026-11-16T03:23:26",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "jWLhS5OG1YrBxDr1NhfNGGU6dRsuDCZmZWGaclSTA3md+OWy5iWClDBMsXFYGL9DYhRxxJtyecQHKMHcEpJ2BQ=="
+  "value": "u0hUkfONimatLtTZUpUuX4b+XQmNBAPtClVfrfjP8fC3yZ5lFQqs9zOdGPSU3VFPvLbygUWTpzYkZzSPuANHBA=="
  }
 }
