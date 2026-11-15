@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-14T10:44:20",
+ "generated": "2026-11-15T20:31:19",
  "packages": [
   {
-   "version": "0.9.450",
-   "file": "auditradar-update-0.9.450.zip",
-   "sha256": "d0366001a2e5fac0699e016e26cb95b741c019488b5238c5269e8779c0d53012",
-   "size": 9354527,
-   "notes": "Асосий воситалар: реестр юкланмаса «Омбор»да асосий восита деб белгиланган харидлардан (ЭҲФ, БЮД) автоматик шаклланади — ишга тушириш санаси, гуруҳ ва эскириш ставкаси таклифи (Солиқ кодекси 306-м.), тасдиқлаш; харид 0800 орқали 01-счётга ўтади",
-   "built": "2026-11-14T10:44:18",
+   "version": "0.9.466",
+   "file": "auditradar-update-0.9.466.zip",
+   "sha256": "28033b721e485fdd5bf7c854251f45ce712c1117ddc4778e1a21e0ffcebf380d",
+   "size": 9374652,
+   "notes": "БЮД товарлари: товар қаторлари йўқ БЮДда (E-CONTRACT ёзувни бермаган, сайт ойнаси ўқилмаган) PDF нусхаси бўлса — қаторлар PDF дан олинади; сайтдан товарсиз ўқилган ёзув аввалги товарли ёзувни ўчирмайди",
+   "built": "2026-11-15T20:31:17",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "++Dk907f+C6GGwglknj7EqMxy3OCY/6bBV+nkPz84OLqYzkF9UUa7mk09PCY8+syJlFDgO+aWZ2IHdMYTi2IAw=="
+  "value": "Uc6XJt/ZjMIl2kDUqHUSHboaytUpcHo3/Ngos4IjCoDMC9pnm+Ysy5fCJYjxNXTy2UyfW9vsi1fyKUDPHE2GAA=="
  }
 }
