@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-16T23:10:54",
+ "generated": "2026-11-16T23:31:58",
  "packages": [
   {
-   "version": "0.9.482",
-   "file": "auditradar-update-0.9.482.zip",
-   "sha256": "a680b6bdfa4cb986446515ca8c33ab2f0bf81a58da0667ff8600cf3403fd0560",
-   "size": 9463747,
-   "notes": "Тезлаштириш: Дебитор-кредитор, шартномалар кесими, контрагент ҳаракатлари, Омбор (ва Excel), Асосий воситалар натижаси сақланади — маълумот ўзгармаса дарров очилади; йиғиш тугагач ва тунда натижалар алоҳида фон жараёнида олдиндан тайёрланади; биржа тахминлари ўзгармаса базага қайта ёзилмайди",
-   "built": "2026-11-16T23:10:38",
+   "version": "0.9.483",
+   "file": "auditradar-update-0.9.483.zip",
+   "sha256": "4bb8c31007ce71c7b3e9b462bb165cd32d84370e14b1108b17543efc348dbbc7",
+   "size": 9467378,
+   "notes": "Банк хизмати ЭҲФлари МХИК бўйича: хизмат кўрсатувчи банк тариф ЭҲФлари комиссиялар билан ёпилади; банк билан бошқа муносабатлар (ижара, мулк) таъсирланмайди; комиссия банкка МФО/ҳисоб банки бўйича боғланади",
+   "built": "2026-11-16T23:31:56",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "4cjDpoiD3IdN8jUOfbhQZioHvuZbLTA8PPaEYHqvRbwFeQUkXtLRPlg18CEsFkJ84LivDmFTVlARRySOrcVYCA=="
+  "value": "UHEDGZuKpMPucxRgjpPiLVbcnl4rKU8Z9x9+hrfvnLfUlM7IUvQe/PecAPlsPnm1nBYpqenij0BzDQQqzsG7DQ=="
  }
 }
