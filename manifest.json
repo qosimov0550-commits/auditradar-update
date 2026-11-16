@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-16T03:23:36",
+ "generated": "2026-11-16T11:22:50",
  "packages": [
   {
-   "version": "0.9.471",
-   "file": "auditradar-update-0.9.471.zip",
-   "sha256": "427b7a1477b6333f7f05cff9d57f5c9ba1f41fb9142ec35eff475c4e94f48dbd",
-   "size": 9386348,
-   "notes": "Асосий воситалар: белгиланган объектлар бўйича бирданига тасдиқлаш / рад этиш / гуруҳ; рад этишда омбор туркумини ўзгартириш (сукут — Хом ашё ва материаллар); қидириш ва саралаш",
-   "built": "2026-11-16T03:23:26",
+   "version": "0.9.473",
+   "file": "auditradar-update-0.9.473.zip",
+   "sha256": "43f64717f57764fd623208f553044a4020f58c9dd401a6bb54390baff4937903",
+   "size": 9401132,
+   "notes": "Дебитор-кредитор шартномалар кесимида (TERMO тажрибаси, 1-босқич): тўловни шартномага боғлаш занжири, рақам вариантлари, тақсимланмаганлар ва қўлда боғлаш; акт сверка ҳам шу боғлашни ишлатади",
+   "built": "2026-11-16T11:22:35",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "u0hUkfONimatLtTZUpUuX4b+XQmNBAPtClVfrfjP8fC3yZ5lFQqs9zOdGPSU3VFPvLbygUWTpzYkZzSPuANHBA=="
+  "value": "yo00hviKQbaWgRES5MtBUu/wx9n2KXheejqt5uzdRjosp1M0RYxCll8TfSO4lODUhkYOFozWNqOw0gNSdJenAA=="
  }
 }
