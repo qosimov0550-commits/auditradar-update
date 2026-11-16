@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-16T17:39:14",
+ "generated": "2026-11-16T23:10:54",
  "packages": [
   {
-   "version": "0.9.480",
-   "file": "auditradar-update-0.9.480.zip",
-   "sha256": "cd3f77f5c370c232a36a88f1d75ea7f1961df2a835a0153c50a74948908f1944",
-   "size": 9426097,
-   "notes": "E-auksion: «muddatli to'lov … markaz foydasi» — лот учун тўлов; «Shaxsiy hisobvaraq» Excel файлини «Биржа шахсий ҳисоби кўчирмаси» тугмаси орқали юклаш; аукцион ҳамёнидан ЭҲФ бўйича тахминий ёпиш фақат лот рақами мос бўлса",
-   "built": "2026-11-16T17:38:57",
+   "version": "0.9.482",
+   "file": "auditradar-update-0.9.482.zip",
+   "sha256": "a680b6bdfa4cb986446515ca8c33ab2f0bf81a58da0667ff8600cf3403fd0560",
+   "size": 9463747,
+   "notes": "Тезлаштириш: Дебитор-кредитор, шартномалар кесими, контрагент ҳаракатлари, Омбор (ва Excel), Асосий воситалар натижаси сақланади — маълумот ўзгармаса дарров очилади; йиғиш тугагач ва тунда натижалар алоҳида фон жараёнида олдиндан тайёрланади; биржа тахминлари ўзгармаса базага қайта ёзилмайди",
+   "built": "2026-11-16T23:10:38",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "vy8C7Y37ENUibI0zfvPNCHPl9jUAtkKpncjWAKVLWk9yXjzAumA+ZKJO2f81havbBQo5foumC4CH8jqvWH/5BQ=="
+  "value": "4cjDpoiD3IdN8jUOfbhQZioHvuZbLTA8PPaEYHqvRbwFeQUkXtLRPlg18CEsFkJ84LivDmFTVlARRySOrcVYCA=="
  }
 }
