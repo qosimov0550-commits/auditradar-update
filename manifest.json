@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-16T11:22:50",
+ "generated": "2026-11-16T12:20:57",
  "packages": [
   {
-   "version": "0.9.473",
-   "file": "auditradar-update-0.9.473.zip",
-   "sha256": "43f64717f57764fd623208f553044a4020f58c9dd401a6bb54390baff4937903",
-   "size": 9401132,
-   "notes": "Дебитор-кредитор шартномалар кесимида (TERMO тажрибаси, 1-босқич): тўловни шартномага боғлаш занжири, рақам вариантлари, тақсимланмаганлар ва қўлда боғлаш; акт сверка ҳам шу боғлашни ишлатади",
-   "built": "2026-11-16T11:22:35",
+   "version": "0.9.475",
+   "file": "auditradar-update-0.9.475.zip",
+   "sha256": "26b945fa0106c05b89a31814be402c08d8a3bdd30dadf3f0d3306956f4fb36f7",
+   "size": 9416147,
+   "notes": "Биржа: шахсий ҳисоб кўчирмаси қамрамаган даврда (масалан, 2022–2023) банкдан биржага ўтказилган пул ва биржа орқали харидлар тахминий ёпилади; кўчирмада битими бор сотувчи биржа орқали тўланган деб олинади. Шартномалар кесими асосий жадвал ўрнида кўрсатилади (устма-уст чиқиш тузатилди)",
+   "built": "2026-11-16T12:20:54",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "yo00hviKQbaWgRES5MtBUu/wx9n2KXheejqt5uzdRjosp1M0RYxCll8TfSO4lODUhkYOFozWNqOw0gNSdJenAA=="
+  "value": "7cL7cLl+sD5NwhDXEmB/HzAa49MYiXki9MUalH2m+zlb5oW9iKjPYhYRhxMFEON0NIkDkRuyLFEhKDrbUkyEAA=="
  }
 }
