@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-16T23:31:58",
+ "generated": "2026-11-17T11:49:42",
  "packages": [
   {
-   "version": "0.9.483",
-   "file": "auditradar-update-0.9.483.zip",
-   "sha256": "4bb8c31007ce71c7b3e9b462bb165cd32d84370e14b1108b17543efc348dbbc7",
-   "size": 9467378,
-   "notes": "Банк хизмати ЭҲФлари МХИК бўйича: хизмат кўрсатувчи банк тариф ЭҲФлари комиссиялар билан ёпилади; банк билан бошқа муносабатлар (ижара, мулк) таъсирланмайди; комиссия банкка МФО/ҳисоб банки бўйича боғланади",
-   "built": "2026-11-16T23:31:56",
+   "version": "0.9.484",
+   "file": "auditradar-update-0.9.484.zip",
+   "sha256": "2c0132ab733039e3396808c95af2dde77bd5fe0f837eead93c17cee20a9eb12c",
+   "size": 9470987,
+   "notes": "Банк ТАХЛИЛ: СВОД формулалари ҳисоб рақамини матн сифатида солиштиради (Excel 15 хона хатоси); тузатилган файлда қатор қўшилган/ўчирилган бўлса — файл манба бўлади, аввалги кўчирмалар алмаштирилади (ўчирилмайди); сараланганда сурилган яширин калитлар текширилади; Excel сана рақами",
+   "built": "2026-11-17T11:49:29",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "UHEDGZuKpMPucxRgjpPiLVbcnl4rKU8Z9x9+hrfvnLfUlM7IUvQe/PecAPlsPnm1nBYpqenij0BzDQQqzsG7DQ=="
+  "value": "AN6WIyrv5yi5/xjMqSGQb9ZBSD75+H57yVkHbAZY6BO0YRKkWiSU/p/sEk9XprgamA2McyoKNSYcpGtD/ZMMDw=="
  }
 }
