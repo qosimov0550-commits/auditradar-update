@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-17T16:53:02",
+ "generated": "2026-11-17T20:28:56",
  "packages": [
   {
-   "version": "0.9.488",
-   "file": "auditradar-update-0.9.488.zip",
-   "sha256": "90002a378cfb5f8713a6f5035466ce08c1aeb7e441abbe32fc04f6e3ec97281f",
-   "size": 9479645,
-   "notes": "Экспорт тушуми: E-CONTRACT жўнатмаларининг жўнатиш кунидаги курсдаги сўм қиймати ҳисоботдаги 0104 билан солиштирилади, ҳисобот курси (0104/01041) ва 01043 ҳисоби кўрсатилади",
-   "built": "2026-11-17T16:53:00",
+   "version": "0.9.490",
+   "file": "auditradar-update-0.9.490.zip",
+   "sha256": "29f364ed9498d775895cc5a93a1bb04b6e062d62b9ff6d4019438e6d61deb6c5",
+   "size": 9480558,
+   "notes": "АСВ: изоҳ билан ёпилган қарз проводкаси асосий счётга (40/60) — бўнак (43/63) билан контрагент кесимида ёпилади, тескари қолдиқ қолмайди",
+   "built": "2026-11-17T20:28:53",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "/5zOWBKReq9d4CojV26EH4GRl8/v4A6OjHlJ0M7oJiCqLc5HKIz+aeze9uG+eYIWg8WSrlatgrbQ2aj8qffBAA=="
+  "value": "gXm7/vk8zHYXxFfnf7W4FR4Tsoxr+MuP4rAOJAfZq2e/xWiFsWiNE5hwKcVTmK5sYeA7C5GhTQ/GZmeK9lEWCg=="
  }
 }
