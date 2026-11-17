@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-17T20:28:56",
+ "generated": "2026-11-17T23:46:18",
  "packages": [
   {
-   "version": "0.9.490",
-   "file": "auditradar-update-0.9.490.zip",
-   "sha256": "29f364ed9498d775895cc5a93a1bb04b6e062d62b9ff6d4019438e6d61deb6c5",
-   "size": 9480558,
-   "notes": "АСВ: изоҳ билан ёпилган қарз проводкаси асосий счётга (40/60) — бўнак (43/63) билан контрагент кесимида ёпилади, тескари қолдиқ қолмайди",
-   "built": "2026-11-17T20:28:53",
+   "version": "0.9.492",
+   "file": "auditradar-update-0.9.492.zip",
+   "sha256": "2b84c0190616df2953a18872a328affc740307df49f6d57abe8e5dfeb1281ec0",
+   "size": 9482091,
+   "notes": "Экспорт тушуми: икки валютали шартномада 2-валютадаги операциялар (amount2) ва БЮД фактура валютаси ҳисобга олинади; ИМ41 (қайта импорт) жўнатмани камайтиради; бекор қилинган ЭК10 чиқарилади. Йиғувчи: БЮД операцияси валютаси — фактура валютаси",
+   "built": "2026-11-17T23:46:15",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "gXm7/vk8zHYXxFfnf7W4FR4Tsoxr+MuP4rAOJAfZq2e/xWiFsWiNE5hwKcVTmK5sYeA7C5GhTQ/GZmeK9lEWCg=="
+  "value": "EgdpinvFDIqJHYBiJpyXAoHpTmBrf5qYN+PT8n6IZn14ehj82zIDoih31E+8HbXagaQeyCNAzbqR3bk4Ja2vAw=="
  }
 }
