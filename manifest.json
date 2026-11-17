@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-17T14:24:21",
+ "generated": "2026-11-17T16:53:02",
  "packages": [
   {
-   "version": "0.9.486",
-   "file": "auditradar-update-0.9.486.zip",
-   "sha256": "fb6719de1d1d1d58bfc3426737c35aaf487a668cc4f7cab72dbf7932a3c2589a",
-   "size": 9476402,
-   "notes": "Бюджет: ғазна шахсий ҳисобварағидан солиқ тури (17–22 хона — бюджет тасниф коди); ГНИ хулосаси бўйича бўлиниб тушган қайтимлар битта қайтим деб солиштирилади; КЛСдаги жуфтсиз «Возв.сог.Заключ» — зачёт эмас, қайтим; суммаси тенг, лекин солиқ тури бошқа тўловлар жуфтланмайди",
-   "built": "2026-11-17T14:24:19",
+   "version": "0.9.488",
+   "file": "auditradar-update-0.9.488.zip",
+   "sha256": "90002a378cfb5f8713a6f5035466ce08c1aeb7e441abbe32fc04f6e3ec97281f",
+   "size": 9479645,
+   "notes": "Экспорт тушуми: E-CONTRACT жўнатмаларининг жўнатиш кунидаги курсдаги сўм қиймати ҳисоботдаги 0104 билан солиштирилади, ҳисобот курси (0104/01041) ва 01043 ҳисоби кўрсатилади",
+   "built": "2026-11-17T16:53:00",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "nNkAmZ4NLV9eJVrvy8mjhp7W80ql1BJlSoCm4SMTx8mvVHhbsM6CDeweiTtude/S6YwBejsmILkLkCEtsquIAg=="
+  "value": "/5zOWBKReq9d4CojV26EH4GRl8/v4A6OjHlJ0M7oJiCqLc5HKIz+aeze9uG+eYIWg8WSrlatgrbQ2aj8qffBAA=="
  }
 }
