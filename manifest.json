@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-19T18:44:41",
+ "generated": "2026-11-19T22:30:11",
  "packages": [
   {
-   "version": "0.9.513",
-   "file": "auditradar-update-0.9.513.zip",
-   "sha256": "be1e61f0a3438758d52a321e01c21e30555357fdf7ae458ecba541af50e688fe",
-   "size": 9505809,
-   "notes": "0.9.513: «Валюта банк ↔ E-CONTRACT» — бир тўлов икки ИДН остида (банк ўзгарган) бўлса «фақат E-CONTRACT да» деб чиқмайди, «такрор» деб изоҳланади",
-   "built": "2026-11-19T18:44:38",
+   "version": "0.9.517",
+   "file": "auditradar-update-0.9.517.zip",
+   "sha256": "95b6822ce8163ab3a729f5e4429740672fb987b54ca69c773a14573bcaad5a61",
+   "size": 9508267,
+   "notes": "0.9.517: «Валюта банк ↔ E-CONTRACT» — банкдаги битта тўлов E-CONTRACT даги бир неча операция йиғиндисига тенг бўлса «мос» деб олинади; АБС рақамисиз такрорлар (шу шартнома, бошқа ИДН) ҳам такрор ҳисобланади",
+   "built": "2026-11-19T22:30:09",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "2+HuQs9M4kREdqXZQH11earvpln/FWEUVpwhXdvt0uUgCQ7AzwEPjJ6QpuKAwXou4ZyOF6eUWE+22/DIozOcBw=="
+  "value": "p4P6zDOYbBMaIDt53L+FluiRyX3B6Bu78gDP3hjouyFGMyOozZoyYj0hrupZQdtLkchmnEhkYpziTolOHu7FAQ=="
  }
 }
