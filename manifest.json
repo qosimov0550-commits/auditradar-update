@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-19T13:16:52",
+ "generated": "2026-11-19T14:39:34",
  "packages": [
   {
-   "version": "0.9.497",
-   "file": "auditradar-update-0.9.497.zip",
-   "sha256": "28906724412ad73e239e027b41a8b58dbef125b0d3f66dab51a277daa5f7c12a",
-   "size": 9484813,
-   "notes": "БЮД режими: ҳарф белгиси (ИМ, ЭК, ПЕ, НД) ва «Оформление …» ёзуви ажратилади — режим рақами бўйича ҳисобланади (ПЕ40/НД40 — ИМ40 каби); омбор варағида режим тоза кўринишда",
-   "built": "2026-11-19T13:16:49",
+   "version": "0.9.503",
+   "file": "auditradar-update-0.9.503.zip",
+   "sha256": "d4c01443a43412d6d6a99e8af47d594f79634f5d605c159d6cf27501c7c9eb67",
+   "size": 9492537,
+   "notes": "0.9.503: E-CONTRACT API 401 — сабабини кўрсатади (рухсатномадаги IP ↔ сервер ташқи IP, рухсатнома ҳолати)",
+   "built": "2026-11-19T14:39:32",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "zlAvPHuaMdQxBBS0EznaeFnXS7VhUeIELHdunHgf1raET8uQSuSH8k8JPVNDxHjfQhGCiwdmeySv58i6bOQoCQ=="
+  "value": "bVxKanJe6foXr2CwySejaWYMREYo7jyhtg5sNRW0TwSul6K+VR8rvSTDHJ00ENQ73SVLckQGZJKiEHlqntuQCA=="
  }
 }
