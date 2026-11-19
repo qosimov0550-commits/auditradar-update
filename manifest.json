@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-19T14:39:34",
+ "generated": "2026-11-19T17:05:17",
  "packages": [
   {
-   "version": "0.9.503",
-   "file": "auditradar-update-0.9.503.zip",
-   "sha256": "d4c01443a43412d6d6a99e8af47d594f79634f5d605c159d6cf27501c7c9eb67",
-   "size": 9492537,
-   "notes": "0.9.503: E-CONTRACT API 401 — сабабини кўрсатади (рухсатномадаги IP ↔ сервер ташқи IP, рухсатнома ҳолати)",
-   "built": "2026-11-19T14:39:32",
+   "version": "0.9.508",
+   "file": "auditradar-update-0.9.508.zip",
+   "sha256": "c17b4c6cfe995e74efee6bddcdf9892c6734cbbda28162e0eee0a95d2141e501",
+   "size": 9503547,
+   "notes": "0.9.508: банк кўчирмаси юклашда «WinError 32» (файл бошқа жараёнда банд) — ҳисоб рақамлари рўйхатини текширувчи Excel'ни ёпмас эди; ўчириш хатоси юклашни тўхтатмайди",
+   "built": "2026-11-19T17:05:14",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "bVxKanJe6foXr2CwySejaWYMREYo7jyhtg5sNRW0TwSul6K+VR8rvSTDHJ00ENQ73SVLckQGZJKiEHlqntuQCA=="
+  "value": "HbnGukPyJiqKy28lzd6RPfkMCD3QnRSbz/e6VcXp0qMqS9YzXynRvJLbJMl2SGAGxQNaTja4/5lia6h5MUtJBA=="
  }
 }
