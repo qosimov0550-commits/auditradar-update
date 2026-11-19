@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-17T23:46:18",
+ "generated": "2026-11-18T18:21:19",
  "packages": [
   {
-   "version": "0.9.492",
-   "file": "auditradar-update-0.9.492.zip",
-   "sha256": "2b84c0190616df2953a18872a328affc740307df49f6d57abe8e5dfeb1281ec0",
-   "size": 9482091,
-   "notes": "Экспорт тушуми: икки валютали шартномада 2-валютадаги операциялар (amount2) ва БЮД фактура валютаси ҳисобга олинади; ИМ41 (қайта импорт) жўнатмани камайтиради; бекор қилинган ЭК10 чиқарилади. Йиғувчи: БЮД операцияси валютаси — фактура валютаси",
-   "built": "2026-11-17T23:46:15",
+   "version": "0.9.495",
+   "file": "auditradar-update-0.9.495.zip",
+   "sha256": "e806b7ab5d15e30939473b6b903f62cf77d84d599688c8a9e4720ad765b22a4f",
+   "size": 9484207,
+   "notes": "Омбор: қайтаришлар манфий — импорт шартномаси остидаги ЭК11 ва экспорт шартномаси остидаги ИМ41 шу устунда манфий миқдор ва сумма; қайтариш ЭҲФида миқдор ҳам манфий; ОНКМ қайтаришлари аввалдан манфий",
+   "built": "2026-11-18T18:21:16",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "EgdpinvFDIqJHYBiJpyXAoHpTmBrf5qYN+PT8n6IZn14ehj82zIDoih31E+8HbXagaQeyCNAzbqR3bk4Ja2vAw=="
+  "value": "n83+r2dlNoek2L6cYF18vN9j8SKYUMaZMMD621xWwXvaEn6Pcca5LVyWpLFmY4uXh786RvQXDuit/fUjV632Aw=="
  }
 }
