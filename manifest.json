@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-20T11:27:09",
+ "generated": "2026-11-20T11:42:47",
  "packages": [
   {
-   "version": "0.9.520",
-   "file": "auditradar-update-0.9.520.zip",
-   "sha256": "7df7bd13724b41cfdd05d38c47ed0e046602cf1c16afab7b6f6c3a1c8244817b",
-   "size": 9519060,
-   "notes": "0.9.520: электрон харид далолатномалари (деҳқонлардан харид, PDF) — «Файл юклаш» орқали юкланади; омборга (свод ва FIFO) кирим манбаси; миграция 194",
-   "built": "2026-11-20T11:26:53",
+   "version": "0.9.521",
+   "file": "auditradar-update-0.9.521.zip",
+   "sha256": "e1678df5cbce19fac2993390d86f461bd90f41fb9802112835d0e4270a3c0303",
+   "size": 9520409,
+   "notes": "0.9.521: кенгайтма 0.6.160 — электрон харид далолатномаларини my.soliq дан автомат йиғиш (рўйхат + PDF, аввал юкланганлари ўтказилади); платформага /purchase-acts/known",
+   "built": "2026-11-20T11:42:40",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "0gPoP0sSDb5oqg60gcgw9zuqSjIF3XmPs4FBWJyfAuuLuNgJfkv2lOyuTSAFNkGyZVDcttifOKYQjvEtoQ5wDw=="
+  "value": "dB50j61bahrpXFZqojTBUoKyatoC4GmCZRFrpojO1ZzZ2oRGSDxQjgY/hDcybQRsrKwx3sH49PEH3wU5RFM8Dw=="
  }
 }
