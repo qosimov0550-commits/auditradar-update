@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-20T15:06:14",
+ "generated": "2026-11-20T18:35:09",
  "packages": [
   {
-   "version": "0.9.524",
-   "file": "auditradar-update-0.9.524.zip",
-   "sha256": "77954d5bb61ad4a6e0ddbf4b93ffec7c4fb0b2c337a7198287dd851baa464450",
-   "size": 9533798,
-   "notes": "0.9.524: Тақвим — «Рўйхатни солиштириш (+/−)»: аудиторнинг солиқ турлари бўйича Excel назорат рўйхати ↔ платформа маълумоти (мол-мулк/ер: my.soliq кўчмас мулк, ер, мол-мулк рўйхати, шахсий ҳисобварақ; ҚҚС, АОС, ЖШДС, фойда бўнаги, акциз, дивиденд, норезидент)",
-   "built": "2026-11-20T15:06:12",
+   "version": "0.9.527",
+   "file": "auditradar-update-0.9.527.zip",
+   "sha256": "ed6fd58f10e8e719c95e65c26eb15ac878bd28623f607a9e2f62d81a741cce86",
+   "size": 9548345,
+   "notes": "0.9.527: Омбор — «Электрон харид далолатномалари» бўлими (рўйхат, PDF/Excel юклаш, Excel шаблон), Excel'да «Харид далолатномалари» варағи, FIFO ҳисоботида «шундан: харид далолатномаси» устунлари; my.soliq рўйхати (Excel) — тўлиқлик учун; миграция 195",
+   "built": "2026-11-20T18:34:24",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "VObK9+/2Zvwbz4ZVBTSHh3w1yIEttRRx+Xt+Za71tBLr5X6S8tk9hXj5EhqRYdyKFFkmZ+emso479bujfurDAQ=="
+  "value": "FNZkHgk1U/C6GwP8SxTlnQtby4cw+fCSeaNbxU5Io2Zp+Pd0oEO4e8vQQTIQVtTrDpc4xcnpgcT1bexk3IMCAg=="
  }
 }
