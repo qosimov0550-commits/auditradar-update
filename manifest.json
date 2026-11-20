@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-19T22:30:11",
+ "generated": "2026-11-20T11:27:09",
  "packages": [
   {
-   "version": "0.9.517",
-   "file": "auditradar-update-0.9.517.zip",
-   "sha256": "95b6822ce8163ab3a729f5e4429740672fb987b54ca69c773a14573bcaad5a61",
-   "size": 9508267,
-   "notes": "0.9.517: «Валюта банк ↔ E-CONTRACT» — банкдаги битта тўлов E-CONTRACT даги бир неча операция йиғиндисига тенг бўлса «мос» деб олинади; АБС рақамисиз такрорлар (шу шартнома, бошқа ИДН) ҳам такрор ҳисобланади",
-   "built": "2026-11-19T22:30:09",
+   "version": "0.9.520",
+   "file": "auditradar-update-0.9.520.zip",
+   "sha256": "7df7bd13724b41cfdd05d38c47ed0e046602cf1c16afab7b6f6c3a1c8244817b",
+   "size": 9519060,
+   "notes": "0.9.520: электрон харид далолатномалари (деҳқонлардан харид, PDF) — «Файл юклаш» орқали юкланади; омборга (свод ва FIFO) кирим манбаси; миграция 194",
+   "built": "2026-11-20T11:26:53",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "p4P6zDOYbBMaIDt53L+FluiRyX3B6Bu78gDP3hjouyFGMyOozZoyYj0hrupZQdtLkchmnEhkYpziTolOHu7FAQ=="
+  "value": "0gPoP0sSDb5oqg60gcgw9zuqSjIF3XmPs4FBWJyfAuuLuNgJfkv2lOyuTSAFNkGyZVDcttifOKYQjvEtoQ5wDw=="
  }
 }
