@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-20T18:35:09",
+ "generated": "2026-11-20T19:30:49",
  "packages": [
   {
-   "version": "0.9.527",
-   "file": "auditradar-update-0.9.527.zip",
-   "sha256": "ed6fd58f10e8e719c95e65c26eb15ac878bd28623f607a9e2f62d81a741cce86",
-   "size": 9548345,
-   "notes": "0.9.527: Омбор — «Электрон харид далолатномалари» бўлими (рўйхат, PDF/Excel юклаш, Excel шаблон), Excel'да «Харид далолатномалари» варағи, FIFO ҳисоботида «шундан: харид далолатномаси» устунлари; my.soliq рўйхати (Excel) — тўлиқлик учун; миграция 195",
-   "built": "2026-11-20T18:34:24",
+   "version": "0.9.528",
+   "file": "auditradar-update-0.9.528.zip",
+   "sha256": "26dc0c42fe1eddce1ffd3e927c852ebaa525d8e802b785d04ecdc12abc1af22f",
+   "size": 9558945,
+   "notes": "0.9.528: маълумот тўлиқлиги дарвозаси — манба етишмаса топилма «ДАСТЛАБКИ» (хатарга кирмайди, мижоз Excel'ида йўқ); МХИК тафовути — бир товар гуруҳида етишмовчилик бошқа МХИК ортиқча қолдиғи билан ёпилади (свод ва FIFO, WH_MXIK_GAP); ЭК11 божхона омборидан (ИМ74/ИМ70) — омбордан ажратилди, алоҳида варақ; миграция 196",
+   "built": "2026-11-20T19:30:41",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "FNZkHgk1U/C6GwP8SxTlnQtby4cw+fCSeaNbxU5Io2Zp+Pd0oEO4e8vQQTIQVtTrDpc4xcnpgcT1bexk3IMCAg=="
+  "value": "Cmhxt6B9tpQd3IF+gpSDZZpb7M30rM6skTHWtb3sEs3oj7ILpOt34BCXjPvqyPs3fXn+TznVusUi0jZMzWUgCQ=="
  }
 }
