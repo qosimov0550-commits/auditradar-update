@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-21T17:57:05",
+ "generated": "2026-11-21T22:32:35",
  "packages": [
   {
-   "version": "0.9.542",
-   "file": "auditradar-update-0.9.542.zip",
-   "sha256": "7ebbf3038f834fc5610304b1c59289fa6b3c1eb7d65ee3f135dadb69dbb50dab",
-   "size": 9617137,
-   "notes": "0.9.542: бекор қилинган БЮД («Аннулирование ЭК11/ИМ40…») рақами шартнома карталаридан олинади — API журнали уни рақамсиз беради ва сайт ҳисоботидаги рақамли ёзув API янгилашида ўчарди; энди ўчирилмайди. MINGBULOQ: ЭК11 10917 (бекор) омбор/ҚҚСдан чиқади, қайтган товар бир марта (10966) айирилади",
-   "built": "2026-11-21T17:56:54",
+   "version": "0.9.547",
+   "file": "auditradar-update-0.9.547.zip",
+   "sha256": "e792756d55e2be6671f9c962e744f0591558426dc4af3ef7f8b5cb3bb76e5099",
+   "size": 9618509,
+   "notes": "0.9.547: ТН ВЭД кодлари cargo маълумотномаларидан йиғилмайди (фойдаланувчи қарори; керак бўлса очиқ маълумотлар / tasnif.uz) — рўйхатдан ва эслатмадан олиб ташланди, қисман олинган 100 та ёзув ўчирилди",
+   "built": "2026-11-21T22:32:25",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "qGsYVYe/cNN09TruHe1h0UDEIT7mHGCAQt/+S90JUhOU/BFk0NGswAly1sRB2uFoRw1HETKYtWnX6AzwjMKhBQ=="
+  "value": "kEwwxLxBbpkS7+ld3LiKIGW6Nt+akMSUlNse9tMX/4HxBMucuz+nYnSFGETRvyHhQNraa2vBREAWQUdBYMkWAA=="
  }
 }
