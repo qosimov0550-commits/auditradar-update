@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-21T16:57:53",
+ "generated": "2026-11-21T17:57:05",
  "packages": [
   {
-   "version": "0.9.540",
-   "file": "auditradar-update-0.9.540.zip",
-   "sha256": "821ca2e4a20d3b1ef2a4916d47df50dccc8151375040d718e4ef538b49acbf93",
-   "size": 9610549,
-   "notes": "0.9.540: «Маълумотномалар → Божхона маълумотномалари» (cargo.customs.uz: постлар, омборлар, давлатлар, валюталар, ўлчов бирликлари, ТИФ ТН, транспорт, кафолат, вилоят/туман) — кенгайтма 0.6.165 «cargo маълумотномасини олиш» тугмаси очиқ саҳифадан ўқийди; БЮД/PDF кодлари номга айланади; чоракда бир янгилаш эслатмаси",
-   "built": "2026-11-21T16:57:35",
+   "version": "0.9.542",
+   "file": "auditradar-update-0.9.542.zip",
+   "sha256": "7ebbf3038f834fc5610304b1c59289fa6b3c1eb7d65ee3f135dadb69dbb50dab",
+   "size": 9617137,
+   "notes": "0.9.542: бекор қилинган БЮД («Аннулирование ЭК11/ИМ40…») рақами шартнома карталаридан олинади — API журнали уни рақамсиз беради ва сайт ҳисоботидаги рақамли ёзув API янгилашида ўчарди; энди ўчирилмайди. MINGBULOQ: ЭК11 10917 (бекор) омбор/ҚҚСдан чиқади, қайтган товар бир марта (10966) айирилади",
+   "built": "2026-11-21T17:56:54",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "s6EbbGppCP7HgLG/0ShOdgKyfKto3pVd4mw6WtK0wtp/r+KG9744pbrctuDmZMvkhf3XIIdNKRlmeM4sFCnPCg=="
+  "value": "qGsYVYe/cNN09TruHe1h0UDEIT7mHGCAQt/+S90JUhOU/BFk0NGswAly1sRB2uFoRw1HETKYtWnX6AzwjMKhBQ=="
  }
 }
