@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-23T15:34:51",
+ "generated": "2026-11-23T19:28:07",
  "packages": [
   {
-   "version": "0.9.560",
-   "file": "auditradar-update-0.9.560.zip",
-   "sha256": "71be2f241b11de4512dcd5bc62b0c3653753343709f00acfd7c1b1fff3ebe07f",
-   "size": 9807008,
-   "notes": "0.9.560: экспорт тушуми бўйича ҚҚС (04031) — E-CONTRACT ва валюта кўчирмалари тўлиқ бўлмаса хулоса қилинмайди (EXP_FX_SOURCES, суммасиз); таъсир ойлар бўйича жамланади; ички бозор савдоси бўлса 0403 тақсимоти ҳақида маълумот; экранда ҳам",
-   "built": "2026-11-23T15:34:49",
+   "version": "0.9.562",
+   "file": "auditradar-update-0.9.562.zip",
+   "sha256": "a442cc3c12080bf32518e266ba770710cf93659a1aa57a9596364190d916f1f4",
+   "size": 9820097,
+   "notes": "0.9.562: қўшимча ЭҲФ асл ЭҲФни бекор қилмайди (дебитор-кредитор, омбор, бош китоб, ҚҚС шакли, асосий воситалар, биржа); банк кўчирмаси чегара кунидаги янги тўловлар ташланмайди",
+   "built": "2026-11-23T19:28:00",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "bvaL/r/kuAcSuNMjlCilnr3BT48LhTD16q3GiMKDlmmLgdo7dDYp5iQLPu9VtKdpQLMGJIi59XTylMrogIzRCg=="
+  "value": "vlDFeQugnUq1pJ8sYO02wPQppkh8p2qDiSGKL+SQlrzDgEP8lrcwVJLH5vIaKx/jiimsAJXVuNgTwTrFQTXAAQ=="
  }
 }
