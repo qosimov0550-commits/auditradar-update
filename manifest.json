@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-23T14:30:14",
+ "generated": "2026-11-23T15:34:51",
  "packages": [
   {
-   "version": "0.9.559",
-   "file": "auditradar-update-0.9.559.zip",
-   "sha256": "ed1e56c438ce258bd450a7ca55d70b4178b735aee7ba50a4de156dee50057d9f",
-   "size": 9801207,
-   "notes": "0.9.559: хизмат шартномалари реестри (А — аудит, Б — аутсорсинг/консалтинг, қўшимча келишув): рўйхатдан ўтган нусхани юклаш, рақам/сана таҳрири сабаби билан, ҳолат; холислик текшируви (бухгалтериясини юритаётган/юритган мижозга аудит тақиқ, аудитдан кейин бухгалтерия мумкин); асосий хизмат кўрсатувчи ташкилот; аудит шартномасини текширувга асос қилиш",
-   "built": "2026-11-23T14:30:12",
+   "version": "0.9.560",
+   "file": "auditradar-update-0.9.560.zip",
+   "sha256": "71be2f241b11de4512dcd5bc62b0c3653753343709f00acfd7c1b1fff3ebe07f",
+   "size": 9807008,
+   "notes": "0.9.560: экспорт тушуми бўйича ҚҚС (04031) — E-CONTRACT ва валюта кўчирмалари тўлиқ бўлмаса хулоса қилинмайди (EXP_FX_SOURCES, суммасиз); таъсир ойлар бўйича жамланади; ички бозор савдоси бўлса 0403 тақсимоти ҳақида маълумот; экранда ҳам",
+   "built": "2026-11-23T15:34:49",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "EMvUa1juuqNg1xyxsrnskfs0caIwlpI+Ccds+5vUaLZHjBpr9MZvfTYr8vD15eGIDwgEk9kWI7YhSyqua3urCA=="
+  "value": "bvaL/r/kuAcSuNMjlCilnr3BT48LhTD16q3GiMKDlmmLgdo7dDYp5iQLPu9VtKdpQLMGJIi59XTylMrogIzRCg=="
  }
 }
