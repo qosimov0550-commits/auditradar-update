@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-24T08:02:54",
+ "generated": "2026-11-24T11:48:23",
  "packages": [
   {
-   "version": "0.9.569",
-   "file": "auditradar-update-0.9.569.zip",
-   "sha256": "8602f6a41ab0695d0cb7b5827ea9a24059575b7e13fd3f4c9762e6bc8fd05254",
-   "size": 9863275,
-   "notes": "0.9.569: экспорт ҚҚС (6-илова) — рақамсиз E-CONTRACT ЭК10 ва БЮД нусхаси бир марта; бир хил рақамли БЮД такрори бир марта; ЭК11 (ИМ74 реэкспорт) 01041 га кирмайди; валютаси фарқли тушум банкдаги жўнатма валютасидаги суммада; мутаносиб усул (кирим ҚҚС айланма улушида), таъсир йил бошидан йиғма",
-   "built": "2026-11-24T08:02:33",
+   "version": "0.9.570",
+   "file": "auditradar-update-0.9.570.zip",
+   "sha256": "7aa328f292152cfc7de2c923626c7b2b9844599b8c89949fd475f6b03f3503e7",
+   "size": 9873295,
+   "notes": "0.9.570: дебитор-кредитор Excel — «Йиллар кесимида» (йилдан йилга қолдиқ билан, платформа сальдоси билан солиштириш) ва асос варақлари: ЭҲФ сотув, ЭҲФ харид, банк, бошқа (контрагент номи бўйича)",
+   "built": "2026-11-24T11:48:03",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "OS+N1skULnyYC7qkihiywLjiSN9OJ+1fyiN86ed0aLjlxgAOWKwccNlI3qZm0WPFM83C4UZ3HxYGtSBjhpeXDw=="
+  "value": "bqaYcd7in5NhvlLU71G6RGY6oaxkimS1OYPtu4HtiCahvjo9hO2/d18ZHYRgKsnM8snNYixFeIrwuw52T4IcAQ=="
  }
 }
