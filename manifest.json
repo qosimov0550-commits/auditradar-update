@@ -1,14 +1,14 @@
 {
  "app": "auditradar",
- "generated": "2026-11-24T01:04:34",
+ "generated": "2026-11-24T08:02:54",
  "packages": [
   {
-   "version": "0.9.568",
-   "file": "auditradar-update-0.9.568.zip",
-   "sha256": "6d65a32bba6ffcee01015b0b4f60b61ab3126e513caef7a3b8e8762be2cc2d16",
-   "size": 9856981,
-   "notes": "0.9.568: хизмат шартномалари намуналари (Word) — аудит A1–A5, аутсорсинг/консалтинг B1–B6, қўшимча келишув (асосий шартномага боғланади); реестрда «Word намуна» ва «+ қўшимча келишув»",
-   "built": "2026-11-24T01:04:32",
+   "version": "0.9.569",
+   "file": "auditradar-update-0.9.569.zip",
+   "sha256": "8602f6a41ab0695d0cb7b5827ea9a24059575b7e13fd3f4c9762e6bc8fd05254",
+   "size": 9863275,
+   "notes": "0.9.569: экспорт ҚҚС (6-илова) — рақамсиз E-CONTRACT ЭК10 ва БЮД нусхаси бир марта; бир хил рақамли БЮД такрори бир марта; ЭК11 (ИМ74 реэкспорт) 01041 га кирмайди; валютаси фарқли тушум банкдаги жўнатма валютасидаги суммада; мутаносиб усул (кирим ҚҚС айланма улушида), таъсир йил бошидан йиғма",
+   "built": "2026-11-24T08:02:33",
    "min_from": null
   }
  ],
@@ -16,6 +16,6 @@
  "sig": {
   "alg": "ed25519",
   "key": "ar2026a",
-  "value": "WdiURGpA7KBEmSEX6NGZ8D8HX2cDoEbugtpYazYu8RLpFyVk+WnzKDTZ27SxRAcu/go159lLV+DROVQUuE92Bg=="
+  "value": "OS+N1skULnyYC7qkihiywLjiSN9OJ+1fyiN86ed0aLjlxgAOWKwccNlI3qZm0WPFM83C4UZ3HxYGtSBjhpeXDw=="
  }
 }
